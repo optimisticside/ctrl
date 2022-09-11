@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=" https://raw.githubusercontent.com/optimisticside/ctrl/master/assets/logo-wide.png" alt="RusTOS Logo">
+    <img src=" https://raw.githubusercontent.com/optimisticside/ctrl/master/assets/logo-wide.png" alt="Ctrl Logo">
 
 Powerful library for control, estimation, and optimization.
 

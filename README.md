@@ -1,7 +1,7 @@
 <div align="center">
     <img src=" https://raw.githubusercontent.com/optimisticside/ctrl/master/assets/logo-wide.png" alt="Ctrl Logo">
 
-Ctrl is an open-source library for robotics, optimal and model-predictive control. It is based off of [Control Toolbox](https://github.com/ethz-adrl/control-toolbox), and works with the [nalgebra](https://nalgebra.org/) library.
+Powerful library for optimal and model-predictive control.
 
 [![Crates.io][crates-badge]][crates-url]
 [![docs.rs][docs-badge]][docs-url]
@@ -19,3 +19,9 @@ Ctrl is an open-source library for robotics, optimal and model-predictive contro
 
 </div>
 <br/>
+
+Ctrl is an open-source library for robotics, optimal and model-predictive control. It is based off of [Control Toolbox](https://github.com/ethz-adrl/control-toolbox), and works with the [nalgebra](https://nalgebra.org/) library. It contains implementations of linear quadratic regulators, model predictive control, and PID control. It also has full support for contstraints and filters.
+
+# Usage
+ - Add ctrl to your Cargo.toml dependencies with the latest version.
+ - Use the library just as you would use any other library in a Rust project.

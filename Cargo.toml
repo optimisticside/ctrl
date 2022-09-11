@@ -2,6 +2,12 @@
 name = "ctrl"
 version = "0.1.0"
 edition = "2021"
+description = "A powerful library for control, estimation, and optimization"
+documentation = "https://docs.rs/ctrl"
+readme = "README.md"
+homepage = "https://github.com/optimisticside/ctrl"
+repository = "https://github.com/optimisticside/ctrl"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

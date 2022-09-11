@@ -9,6 +9,6 @@ homepage = "https://github.com/optimisticside/ctrl"
 repository = "https://github.com/optimisticside/ctrl"
 license-file = "LICENSE"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
+nalgebra = "0.31.1"
+num-traits = "0.2.15"
